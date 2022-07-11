@@ -22,5 +22,5 @@ We are tasked with analyzing Amazon reviews by members of the paid and unpaid co
 
 
 ## Summary
-In conclusion, it does not look like there is a positive bias in the Vine program.
+In conclusion, it does not look like there is a positive bias in the Vine program. 36% of paid reviews received 5 stars vs. 47% of unpaid. If anything, the paid reviews must be more critical of the product compared to unpaid reviews which might be spur of the moment and without real intentionality. I think if we had a different ranking system than 1-5 stars we would see different results. Unpaid would be likely to rank it at 5 stars if they are happy with the product in any way, whereas paid reviews would be more likely to use the 2-4 star reviews to provide more critical feedback.
 
